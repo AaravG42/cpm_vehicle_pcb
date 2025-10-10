@@ -1,0 +1,60 @@
+(footprint "SCREWTERM_4POS_3.5MM_BAT_PWR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "MKDS 1/ 4-3,5 Printklemme\n\nNennstrom: 10 A\nBemessungsspannung: 160 V\nRaster: 3,5 mm\nPolzahl: 4\nMontageart: Löten\nAnschlussart: Schraubanschluss\nAnschlussrichtung vom Leiter zur Platine: 0°\nSource: http://eshop.phoenixcontact.com .. 1751264.pdf")
+	(property "Reference" "JP2"
+		(at -7.6454 3.302 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "123a093c-6187-4fc3-96dd-5fa19f3fee09")
+		(effects
+			(font
+				(size 1.176528 1.176528)
+				(thickness 0.093472)
+			)
+			(justify left bottom)
+		)
+	)
+	(property "Value" "SCREWTERM_4POL_3.5MM"
+		(at -0.3025 -4.1275 180)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5a808773-8270-4fa8-83fe-bd7f271cef6b")
+		(effects
+			(font
+				(size 1.176528 1.176528)
+				(thickness 0.093472)
+			)
+			(justify right top)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "86163975-2664-4085-88c1-989e0b01ccc2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "971b05d7-5471-49cb-8f18-55bae9a87bb5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+)
