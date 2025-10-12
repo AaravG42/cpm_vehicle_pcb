@@ -16033,7 +16033,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "19d6ca0c-3a07-4c84-a8c3-be4ed3721cb3")
 		(property "Reference" "RV1"
 			(at 299.72 287.0199 0)
@@ -16045,7 +16044,7 @@
 			)
 		)
 		(property "Value" "R_Potentiometer"
-			(at 299.72 289.5599 0)
+			(at 310.642 283.972 0)
 			(effects
 				(font
 					(size 1.27 1.27)
