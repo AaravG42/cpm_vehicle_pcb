@@ -1,4 +1,4 @@
-26317668943072332
+26319429392368466
 1083
 MODULE_1083
 
@@ -105051,6 +105051,13 @@ Small Outline Package 8{return}NS Package M08A
 footprints_vehicle_pcb
 SO08_comparator
 Small Outline Package 8{return}NS Package M08A
+
+0
+8
+8
+footprints_vehicle_pcb
+SOIC127P599X175-8N
+
 
 0
 8
