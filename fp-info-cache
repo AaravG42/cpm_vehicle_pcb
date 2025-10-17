@@ -1,4 +1,4 @@
-26319429392368466
+26321189841665235
 1083
 MODULE_1083
 
@@ -2764,6 +2764,13 @@ speaker CUI
 0
 2
 2
+CSD88537ND
+SOIC127P599X175-8N
+
+
+0
+8
+8
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
