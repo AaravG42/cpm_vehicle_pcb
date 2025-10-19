@@ -686,6 +686,10 @@
       {
         "netclass": "S1A ",
         "pattern": "*X0*"
+      },
+      {
+        "netclass": "PW2A",
+        "pattern": "+5V"
       }
     ]
   },

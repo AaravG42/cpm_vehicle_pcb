@@ -14048,7 +14048,7 @@
 		)
 		(uuid "4893a196-d628-43d9-9cde-0755e59e7a21")
 	)
-	(label "LED2_PIN"
+	(label "LED4_PIN"
 		(at 66.04 231.14 0)
 		(effects
 			(font
@@ -14498,7 +14498,7 @@
 		)
 		(uuid "bfb0c019-984f-45f0-97ac-a51bd17b0afe")
 	)
-	(label "SERVO_PWM"
+	(label "PWM"
 		(at 55.88 255.27 0)
 		(effects
 			(font
@@ -14558,7 +14558,7 @@
 		)
 		(uuid "cabadbf2-be34-4f24-88b0-4c32eb7f3875")
 	)
-	(label "LED1_PIN"
+	(label "LED2_PIN"
 		(at 38.1 231.14 0)
 		(effects
 			(font
@@ -14608,7 +14608,7 @@
 		)
 		(uuid "d7a8945f-86b4-4732-b9c2-26072af878ab")
 	)
-	(label "PWM"
+	(label "SERVO_PWM"
 		(at 59.69 265.43 0)
 		(effects
 			(font
@@ -14748,7 +14748,7 @@
 		)
 		(uuid "f881f6c9-738f-449c-854c-6b927a55951f")
 	)
-	(label "LED4_PIN"
+	(label "LED1_PIN"
 		(at 66.04 228.6 0)
 		(effects
 			(font
