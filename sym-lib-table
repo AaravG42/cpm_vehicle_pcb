@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "MCP73844")(type "KiCad")(uri "${KIPRJMOD}/Symbols/MCP73844.kicad_sym")(options "")(descr ""))
   (lib (name "SI9433")(type "KiCad")(uri "${KIPRJMOD}/Symbols/SI9433.kicad_sym")(options "")(descr ""))
+  (lib (name "USBC")(type "KiCad")(uri "${KIPRJMOD}/Symbols/USB4105-GF-A.kicad_sym")(options "")(descr ""))
 )
