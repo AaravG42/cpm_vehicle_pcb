@@ -1,10 +1,29 @@
 {
   "board": {
-    "active_layer": 0,
+    "active_layer": 2,
     "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_netclasses": [],
-    "hidden_nets": [],
+    "hidden_netclasses": [
+      "PW2A",
+      "PW3A"
+    ],
+    "hidden_nets": [
+      "GND",
+      "+5V",
+      "Net-(U4-EN)",
+      "Net-(U8-VC)",
+      "Net-(U8-VDD)",
+      "+3V3",
+      "Net-(U4-FB)",
+      "Net-(U8-V-)",
+      "vcc_bat",
+      "BB",
+      "+8.5V",
+      "B-",
+      "B+",
+      "Net-(C4-Pad1)",
+      "Net-(U4-SW)"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
