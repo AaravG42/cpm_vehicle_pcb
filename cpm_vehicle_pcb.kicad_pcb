@@ -3140,7 +3140,7 @@
 	(footprint "footprints_vehicle_pcb:C0805_10681391"
 		(layer "F.Cu")
 		(uuid "402f7a89-4870-413c-a3c1-784aa0d66764")
-		(at 161.37 71.89)
+		(at 162 72.5)
 		(descr "CAPACITOR")
 		(property "Reference" "C55"
 			(at -1.34975 2.438 180)
@@ -9987,7 +9987,7 @@
 	(footprint "footprints_vehicle_pcb:C0805_10681391"
 		(layer "F.Cu")
 		(uuid "66110f77-da83-431b-b086-9c9995be8dc2")
-		(at 166.11 70.52)
+		(at 166.11 70)
 		(descr "CAPACITOR")
 		(property "Reference" "C56"
 			(at -1.34975 2.438 180)
@@ -11306,7 +11306,7 @@
 			)
 		)
 		(property "Value" "330"
-			(at 0 1.43 90)
+			(at 0.125 1.07 90)
 			(layer "F.Fab")
 			(uuid "fdd9eb24-8234-4ab3-b7b3-3c2c906e6fdd")
 			(effects
