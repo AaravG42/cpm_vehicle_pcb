@@ -27879,7 +27879,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-17"
+		(property "Footprint" "footprints_vehicle_pcb:USB-C-SMD_10P-P1.00-L6.8-W8.9"
 			(at 154.94 21.59 0)
 			(effects
 				(font

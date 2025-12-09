@@ -1,4 +1,4 @@
-26324714293900292
+26330008664894511
 1083
 MODULE_1083
 
@@ -68515,6 +68515,13 @@ Yellow 5381 Series LED
 0
 2
 2
+Library_switches
+Dip_switch_1
+
+
+0
+2
+2
 MTSW-110-09-T-S-400
 SAMTEC_MTSW-110-09-T-S-400
 
@@ -104138,6 +104145,13 @@ igbt diode module
 0
 25
 25
+USB3090-XX-X_REVE2
+GCT_USB3090-XX-X_REVE2
+
+
+0
+9
+9
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins
@@ -105006,6 +105020,13 @@ LEDC2012X120N
 0
 2
 2
+footprints_vehicle_pcb
+MICRO-USB-SMD_5P-P0.65-H-F_MICRO5.9MMUSB
+
+
+0
+13
+6
 footprints_vehicle_pcb
 OST_OSTTE020104
 
