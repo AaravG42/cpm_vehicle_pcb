@@ -21341,7 +21341,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_10.4x10.4_H4.8"
+		(property "Footprint" "Inductor_SMD:L_7.3x7.3_H3.5"
 			(at 143.51 62.23 0)
 			(effects
 				(font
@@ -26748,7 +26748,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "footprints_vehicle_pcb:C0805_10681391"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 414.02 76.2 0)
 			(effects
 				(font
@@ -27443,7 +27443,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "footprints_vehicle_pcb:C0805_10681391"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
 			(at 401.32 276.86 0)
 			(effects
 				(font
